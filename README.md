@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/Safalgautam3636)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)]([https://twitter.com/SafalGautam11](https://twitter.com/SafalGautam11))
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)]([https://twitter.com/SafalGautam11])
 
 I'm a passionate software engineer with a keen interest in Backend and Distributed Systems. 🚀 My journey in the world of coding began with a fascination for turning ideas into reality through lines of code. Over the years, I've honed my skills and grown to love the challenges that Backend and Distributed Systems bring. 
 
