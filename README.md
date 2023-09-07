@@ -25,7 +25,7 @@ I'm a passionate software engineer with a keen interest in Backend and Distribut
 
 - 🌱 Exploring full-stack technologies and tools in the software landscape.
 - 👯 I'm open to collaborations and always eager to learn from others.
-- ⚡ Fun fact: I enjoy [hobbies/interests related to coding or technology].
+- ⚡ Fun fact: I apply Parallel processing in my real life, i.e., doing multiple things at a time.
 
 ## Expertise
 
